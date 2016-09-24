@@ -14,7 +14,7 @@ Making Modifications to This Script
 
 Once you have obtained and unzipped the source files, 
 you will need to make one modification to the R file before you can process the data. 
-On the line 16 of run_analysis.R, you can set the path of the working directory to relect the location of the source files in your own directory.
+On the line 15 of run_analysis.R, you can set the path of the working directory to relect the location of the source files in your own directory.
 
 Project Summary
 

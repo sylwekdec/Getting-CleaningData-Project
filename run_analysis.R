@@ -98,6 +98,6 @@ finaldata<-finaldata[,-c(3,4)]
 
 ### Step 7 Write final data setto file
 
-write.table(finaldata, "averages_data.txt")
+write.table(finaldata, "averages_data.txt", row.names = FALSE)
 
 
